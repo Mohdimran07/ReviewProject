@@ -1,0 +1,16 @@
+.emaillist {
+  display: flex;
+  flex-direction: column;
+}
+
+.emaillist__settings {
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  border-bottom: 1px solid whitesmoke;
+}
+
+.red{
+    color: red;
+}
